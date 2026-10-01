@@ -10,8 +10,8 @@
 
 | Platform | Download | Contents |
 | --- | --- | --- |
-| Windows x64 | [DirectConnect-win-0.0.4.1.7z](https://github.com/HowyF/DirectConnect/releases/download/windows-v0.0.4.1/DirectConnect-win-0.0.4.1.7z) | `DirectConnect.exe` (client), `DirectConnect-Server.exe` (Server Host, with relay mode) |
-| Linux x64 | [DirectConnect-linux-0.0.4.2.7z](https://github.com/HowyF/DirectConnect/releases/download/linux-v0.0.4.2/DirectConnect-linux-0.0.4.2.7z) | `DirectConnect` (client), `DirectConnect-Server` (Server Host), Docker files, `README.md` |
+| Windows x64 | [DirectConnect-win-0.0.5.1.7z](https://github.com/HowyF/DirectConnect/releases/download/windows-v0.0.5.1/DirectConnect-win-0.0.5.1.7z) | `DirectConnect.exe` (client), `DirectConnect-Server.exe` (Server Host, with relay mode) |
+| Linux x64 | [DirectConnect-linux-0.0.5.2.7z](https://github.com/HowyF/DirectConnect/releases/download/linux-v0.0.5.2/DirectConnect-linux-0.0.5.2.7z) | `DirectConnect` (client), `DirectConnect-Server` (Server Host), Docker files, `README.md` |
 
 All versions: [Releases](https://github.com/HowyF/DirectConnect/releases). The current version of each build is listed in [`versions.json`](versions.json).
 
