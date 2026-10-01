@@ -1,22 +1,22 @@
 {
   "schema": 1,
-  "updated": "2026-10-01T16:22:58Z",
+  "updated": "2026-10-01T16:25:08Z",
   "builds": {
     "windows": {
-      "version": "0.0.5.1",
-      "tag": "windows-v0.0.5.1",
-      "file": "DirectConnect-win-0.0.5.1.7z",
-      "url": "https://github.com/HowyF/DirectConnect/releases/download/windows-v0.0.5.1/DirectConnect-win-0.0.5.1.7z",
-      "sha256": "b6a3963b529387f19d24763af0c1478114779f42f519b6e9dbd59990d8d9991c",
-      "size": 460860
+      "version": "0.0.5.2",
+      "tag": "windows-v0.0.5.2",
+      "file": "DirectConnect-win-0.0.5.2.7z",
+      "url": "https://github.com/HowyF/DirectConnect/releases/download/windows-v0.0.5.2/DirectConnect-win-0.0.5.2.7z",
+      "sha256": "78cdd2838fa0665c8e1a20610d60e58b4c3425ff61aeba7c12778357edd8ebcb",
+      "size": 460890
     },
     "linux": {
-      "version": "0.0.5.2",
-      "tag": "linux-v0.0.5.2",
-      "file": "DirectConnect-linux-0.0.5.2.7z",
-      "url": "https://github.com/HowyF/DirectConnect/releases/download/linux-v0.0.5.2/DirectConnect-linux-0.0.5.2.7z",
-      "sha256": "e3fb21d9f28a9724a8e24e8087f309655c9eee5273f3fd04b2ccda46a5b04ab9",
-      "size": 509888
+      "version": "0.0.5.3",
+      "tag": "linux-v0.0.5.3",
+      "file": "DirectConnect-linux-0.0.5.3.7z",
+      "url": "https://github.com/HowyF/DirectConnect/releases/download/linux-v0.0.5.3/DirectConnect-linux-0.0.5.3.7z",
+      "sha256": "fbac930e9bf051aaaf189181031000f6832a9d3b41ba0d114eb8e21146655da6",
+      "size": 509906
     }
   }
 }
