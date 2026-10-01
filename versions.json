@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "updated": "2026-10-01T16:07:02Z",
+  "builds": {
+    "windows": {
+      "version": "0.0.4.1",
+      "tag": "windows-v0.0.4.1",
+      "file": "DirectConnect-win-0.0.4.1.7z",
+      "url": "https://github.com/HowyF/DirectConnect/releases/download/windows-v0.0.4.1/DirectConnect-win-0.0.4.1.7z",
+      "sha256": "c43b6a11d0cd7415204a75fd8f11f1b1831c4e9497f8df52dd26f12ce69e6e11",
+      "size": 460591
+    },
+    "linux": {
+      "version": "0.0.4.2",
+      "tag": "linux-v0.0.4.2",
+      "file": "DirectConnect-linux-0.0.4.2.7z",
+      "url": "https://github.com/HowyF/DirectConnect/releases/download/linux-v0.0.4.2/DirectConnect-linux-0.0.4.2.7z",
+      "sha256": "0b66ceff2c9213ff148ec831e4cbc21dac23415cb422f9e744b5ce8f7aad60e0",
+      "size": 509970
+    }
+  }
+}
