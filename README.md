@@ -1,4 +1,4 @@
-﻿# DirectConnect
+# DirectConnect
 
 Encrypted chat with an admin-controlled server, optional internet relay, and (Pro) voice chat and file sharing.
 
@@ -6,8 +6,8 @@ Encrypted chat with an admin-controlled server, optional internet relay, and (Pr
 
 | Platform | Download | Contents |
 | --- | --- | --- |
-| Windows x64 | [DirectConnect-win-0.0.2.0.7z](https://github.com/HowyF/DirectConnect/releases/download/windows-v0.0.2.0/DirectConnect-win-0.0.2.0.7z) | `DirectConnect.exe` (client), `DirectConnect-Server.exe` (server / relay) |
-| Linux x64 | [DirectConnect-linux-0.0.1.1.7z](https://github.com/HowyF/DirectConnect/releases/download/linux-v0.0.1.1/DirectConnect-linux-0.0.1.1.7z) | `DirectConnect` (client), `DirectConnect-Server` (server / relay), Docker files, `README.md` |
+| Windows x64 | [DirectConnect-win-0.0.3.0.7z](https://github.com/HowyF/DirectConnect/releases/download/windows-v0.0.3.0/DirectConnect-win-0.0.3.0.7z) | `DirectConnect.exe` (client), `DirectConnect-Server.exe` (server / relay) |
+| Linux x64 | [DirectConnect-linux-0.0.2.1.7z](https://github.com/HowyF/DirectConnect/releases/download/linux-v0.0.2.1/DirectConnect-linux-0.0.2.1.7z) | `DirectConnect` (client), `DirectConnect-Server` (server / relay), Docker files, `README.md` |
 
 All versions: [Releases](https://github.com/HowyF/DirectConnect/releases)
 
