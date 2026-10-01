@@ -1,6 +1,10 @@
-# DirectConnect
+<p align="center">
+  <img src="icon.png" width="96" height="96" alt="DirectConnect">
+</p>
 
-Encrypted chat with an admin-controlled server, optional internet relay, and (Pro) voice chat and file sharing.
+<h1 align="center">DirectConnect</h1>
+
+<p align="center">Encrypted chat with an admin-controlled server, optional internet relay, and (Pro) voice chat and file sharing.</p>
 
 ## Download
 
