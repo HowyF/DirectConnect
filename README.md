@@ -6,12 +6,22 @@ Encrypted chat with an admin-controlled server, optional internet relay, and (Pr
 
 | Platform | Download | Contents |
 | --- | --- | --- |
-| Windows x64 | [DirectConnect-win-0.0.3.0.7z](https://github.com/HowyF/DirectConnect/releases/download/windows-v0.0.3.0/DirectConnect-win-0.0.3.0.7z) | `DirectConnect.exe` (client), `DirectConnect-Server.exe` (server / relay) |
-| Linux x64 | [DirectConnect-linux-0.0.2.1.7z](https://github.com/HowyF/DirectConnect/releases/download/linux-v0.0.2.1/DirectConnect-linux-0.0.2.1.7z) | `DirectConnect` (client), `DirectConnect-Server` (server / relay), Docker files, `README.md` |
+| Windows x64 | [DirectConnect-win-0.0.4.0.7z](https://github.com/HowyF/DirectConnect/releases/download/windows-v0.0.4.0/DirectConnect-win-0.0.4.0.7z) | `DirectConnect.exe` (client), `DirectConnect-Server.exe` (server / relay) |
+| Linux x64 | [DirectConnect-linux-0.0.3.1.7z](https://github.com/HowyF/DirectConnect/releases/download/linux-v0.0.3.1/DirectConnect-linux-0.0.3.1.7z) | `DirectConnect` (client), `DirectConnect-Server` (server / relay), Docker files, `README.md` |
 
 All versions: [Releases](https://github.com/HowyF/DirectConnect/releases)
 
 The archives are 7-Zip files. On Windows use [7-Zip](https://www.7-zip.org/); on Linux `sudo apt install 7zip` (or `p7zip-full`), then `7z x DirectConnect-linux-*.7z`.
+
+## Connecting
+
+Every server has its own code (`XXXX-XXXX`), created by the server app. In the client, enter the server's address as `CODE@address`:
+
+- Through a relay: `K7Q2-M9XD@relay.example.com`
+- Directly (UPnP or a forwarded port): `K7Q2-M9XD@203.0.113.5:47800`
+- On your network: press **SCAN LAN**
+
+The server app shows and copies these addresses for each server.
 
 ## Windows
 
